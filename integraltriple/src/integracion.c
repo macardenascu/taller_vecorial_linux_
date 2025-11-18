@@ -1,5 +1,5 @@
 #include <stdlib.h>
-#include "../include/integracion.h"
+#include "integracion.h"
 
 // Genera un número aleatorio uniforme en [min, max]
 static double random_range(double min, double max) {
