@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-#include "../include/densidades.h"
-#include "../include/integracion.h"
+#include "densidades.h"
+#include "integracion.h"
 
 int main() {
 
