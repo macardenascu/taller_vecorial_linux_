@@ -1,5 +1,5 @@
 #include <math.h>
-#include "../include/densidades.h"
+#include "densidades.h"
 
 // Densidad constante
 double densidad_constante(double x, double y, double z) {
